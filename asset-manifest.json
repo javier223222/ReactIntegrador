@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/ReactIntegrador/static/css/main.9b66e802.css",
+    "main.css": "/ReactIntegrador/static/css/main.58ab8163.css",
     "main.js": "/ReactIntegrador/static/js/main.8eed36f3.js",
     "static/js/787.6eafa4d8.chunk.js": "/ReactIntegrador/static/js/787.6eafa4d8.chunk.js",
     "static/media/libreria.png": "/ReactIntegrador/static/media/libreria.7dc38bfbe5c730ea9f0f.png",
@@ -14,12 +14,12 @@
     "static/media/telefono.png": "/ReactIntegrador/static/media/telefono.8253bcc5c30c24736044.png",
     "static/media/logo.svg": "/ReactIntegrador/static/media/logo.6f78675a4bf1820047970ab123340a7f.svg",
     "index.html": "/ReactIntegrador/index.html",
-    "main.9b66e802.css.map": "/ReactIntegrador/static/css/main.9b66e802.css.map",
+    "main.58ab8163.css.map": "/ReactIntegrador/static/css/main.58ab8163.css.map",
     "main.8eed36f3.js.map": "/ReactIntegrador/static/js/main.8eed36f3.js.map",
     "787.6eafa4d8.chunk.js.map": "/ReactIntegrador/static/js/787.6eafa4d8.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.9b66e802.css",
+    "static/css/main.58ab8163.css",
     "static/js/main.8eed36f3.js"
   ]
 }
